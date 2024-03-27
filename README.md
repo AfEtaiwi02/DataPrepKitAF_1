@@ -5,4 +5,4 @@
 #4- import the package using (from DataPrepKitAF.DataPrep import *)
 
 #now you can use the package.
-#(There is a notebook containing how to use the Package)
+#(There is a notebook containing how to use the Package, and another notebook for the package code)
