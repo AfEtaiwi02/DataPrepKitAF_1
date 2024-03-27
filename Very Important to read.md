@@ -3,8 +3,12 @@
 
 2- Create a new Jupyter notebook and put it inside the (Package) folder
 
-#3- install the Package in jupyter notebook using(!pip install DataPrepKit)
-#4- import the package using (from DataPrepKitAF.DataPrep import *)
+3- install the Package in jupyter notebook using(!pip install DataPrepKit)
 
-#now you can use the package.
-#(There is a notebook containing how to use the Package, and another notebook for the package code)
+
+4- import the package using (from DataPrepKitAF.DataPrep import *)
+
+now you can use the package.
+
+**(There is a notebook containing how to use the Package, and another notebook for the package code)
+**
